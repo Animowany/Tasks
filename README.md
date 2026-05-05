@@ -81,17 +81,9 @@ npm install
 ```
 
 ### 6. Uruchomienie aplikacji
-
-Backend (Laravel):
-
 ```bash
+npm run build
 php artisan serve
-```
-
-Frontend (React):
-
-```bash
-npm run dev
 ```
 
 Aplikacja będzie domyślnie dostępna pod:
